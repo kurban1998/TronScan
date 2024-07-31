@@ -1,3 +1,8 @@
+[Bb]in/
+[Oo]bj/
+packages/
+.vs/
+
 # Prerequisites
 *.d
 
